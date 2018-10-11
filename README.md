@@ -1,2 +1,14 @@
 # Parallax
-Parallax is the iPhone application that controls the transfer of Rho Tokens
+Parallax is the iPhone application that controls the transfer of Rho Tokens.
+
+
+	Consider the economy of peer-to-peer transaction of fiat currency to virtual holdings. We must admit that there is a problem that plagues our market. A trader must place adequate trust in the seller in order to purchase digital goods. The obvious solution (and most widely used) is a system of middlemen. But, as the demand of the market increases, the system of middlemanning falls to a level of inefficiency that prevents market growth. This is because as more middlemen are taken on, the level of effort required to maintain the integrity of the middlemen is increased. During periods of exponential market growth, the market grows too fast for a niche community to adequately trial middlemen whilst maintaining the integrity of the whole system. This bottleneck on market growth has brought the Rocket League Exchange (and many other trading communities) to a period of stagnation much below the potential.
+
+  Using the upcoming Parallax technology, players will be able to trade their tokens concurrently with the execution of their trade. When a player initiates a trade with another, the technology will begin capturing screen data from both users. This screen data will be compared between the two and the synchronization will result in a private key given to the currency holder. The currency holder can use this private key to put the currency into escrow. The item holder will be notified of the currency’s new place in escrow. If the item holder accepts the trade, the currency will move from escrow to the item holder.
+  
+  Upon entering a community, the currency will be awarded by its moderators based on strict principles. For example, suppose there is sufficient evidence that a player has put real capital into virtual holdings. That player would be awarded currency for being a supporter of the virtual market. In addition, players who have clearly put time into benefitting the community will be awarded currency (i.e. verifiable reputation). Community members will be made aware that they can create a wallet in order to receive their currency holdings. 
+  
+  As players begin to either enjoy the system or dislike it, transactions will occur – virtual goods (i.e. video game add-ons/accessories) have market-dependent value. 
+
+The currency will slowly begin to attract value. The purpose of implementing the currency without the Parallax technology is so that when the technology is introduced, the currency will have a trading price in fiat currency.
+Players that submit an application will be considered to receive an airdrop of 1 Rho token per U.S. Dollar (USD $) that their inventory is worth. Prices of items will be determined through aggregated data from cash exchanges for virtual items. One such location of data on cash exchanges for virtual items could be reddit.com/r/RocketLeagueExchange.   
